@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Name</string>
+    <string name="sign_up_with_email">Sign up with email</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="dialog_btn">Cancle</string>
+    <string name="terms_condition">By signing up with Nabra,you agree to our Terms of \n Service and Privacy Policy</string>
+</resources>
